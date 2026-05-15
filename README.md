@@ -21,7 +21,13 @@ Dentro de cada categoria, sigo um padrão de **3 níveis de dificuldade**:
 - [x] **Polimorfismo**
 - [x] **Classes abstratas e Interfaces**
 - [x] **Maps, Sets e Lists**
-- [x] *Em desenvolvimento...*
+- [x] **ArrayList vs LinkedList**
+- [x] **HashMap & variantes**
+- [x] **Iteração**
+- [x] **Filter, Map & Collect**
+- [x] **Optional<T>**
+- [x] **Method Refences**
+- [ ] *Em desenvolvimento...*
 
 ## 🛠️ Padrão dos Arquivos
 Todos os exercícios (`.java`) possuem um cabeçalho padronizado contendo o enunciado e a data de resolução, facilitando o acompanhamento do meu progresso:
