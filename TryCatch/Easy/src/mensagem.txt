@@ -1,0 +1,4 @@
+Olá, Java!
+Este é um teste do try-with-resources.
+Ele deve fechar tudo sozinho.
+Sem precisar daquele bloco finally gigante.
