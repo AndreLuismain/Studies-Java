@@ -27,7 +27,7 @@ Dentro de cada categoria, sigo um padrão de **3 níveis de dificuldade**:
 - [x] **Filter, Map & Collect**
 - [x] **Optional<T>**
 - [x] **Method Refences**
-- [ ] *Em desenvolvimento...*
+- [x] **Try-Catch and Try-with-resources**
 
 ## 🛠️ Padrão dos Arquivos
 Todos os exercícios (`.java`) possuem um cabeçalho padronizado contendo o enunciado e a data de resolução, facilitando o acompanhamento do meu progresso:
