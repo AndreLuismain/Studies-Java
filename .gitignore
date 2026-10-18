@@ -1,8 +1,20 @@
-# Configurações do IntelliJ
-.idea/
-*.iml
+# Build & Compiled Bytecode
+**/out/
+**/target/
+**/build/
+**/*.class
 
-# Arquivos compilados
-out/
-target/
-*.class
+# IDEs & Editors
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
+**/.vscode/
+**/.settings/
+**/.classpath
+**/.project
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
