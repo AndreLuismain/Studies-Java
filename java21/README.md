@@ -4,7 +4,7 @@ Exploração prática de **Programação Orientada a Dados (Data-Oriented Progra
 
 ---
 
-## 📋 Exercícios Implementados
+## Exercícios Implementados
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Exploração prática de **Programação Orientada a Dados (Data-Oriented Progra
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 Requer **JDK 21+**:
 

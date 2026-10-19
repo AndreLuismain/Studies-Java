@@ -4,7 +4,7 @@ Módulo dedicado às diferenças arquiteturais entre **Interfaces** e **Classes 
 
 ---
 
-## 📋 Exercícios Implementados
+## Exercícios Implementados
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Módulo dedicado às diferenças arquiteturais entre **Interfaces** e **Classes 
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd Interfaces_e_Classes_Abstratas/untitled/src

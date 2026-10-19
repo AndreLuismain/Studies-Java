@@ -4,7 +4,7 @@ Estudo comparativo das implementações de conjuntos (`Set`), mapas (`Map`) e co
 
 ---
 
-## 📋 Exercícios Implementados
+## Exercícios Implementados
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Estudo comparativo das implementações de conjuntos (`Set`), mapas (`Map`) e co
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd Maps_Sets_List/Easy/src

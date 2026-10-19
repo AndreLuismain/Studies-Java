@@ -4,7 +4,7 @@ Módulo prático de **Programação Orientada a Objetos em Java** focado em inst
 
 ---
 
-## 📋 Exercícios Implementados (`src/`)
+## Exercícios Implementados (`src/`)
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Módulo prático de **Programação Orientada a Objetos em Java** focado em inst
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd Classes_Objetos_e_Construtores/src

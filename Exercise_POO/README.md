@@ -4,7 +4,7 @@ Exercícios práticos voltados à consolidação de herança, sobrescrita de mé
 
 ---
 
-## 📋 Exercícios Implementados (`src/`)
+## Exercícios Implementados (`src/`)
 
 | Arquivo | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|---|---|
@@ -13,7 +13,7 @@ Exercícios práticos voltados à consolidação de herança, sobrescrita de mé
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd Exercise_POO/src

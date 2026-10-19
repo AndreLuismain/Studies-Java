@@ -4,7 +4,7 @@ Exploração avançada de tabelas de dispersão e árvores rubro-negras (`TreeMa
 
 ---
 
-## 📋 Exercícios Implementados (`src/`)
+## Exercícios Implementados (`src/`)
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Exploração avançada de tabelas de dispersão e árvores rubro-negras (`TreeMa
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd HashMap_e_Variantes/src

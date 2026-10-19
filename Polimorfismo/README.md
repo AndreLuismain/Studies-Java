@@ -4,7 +4,7 @@ Estudo prático de **Polimorfismo de Subtipagem (Runtime/Dynamic Dispatch)**, **
 
 ---
 
-## 📋 Exercícios Implementados
+## Exercícios Implementados
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Estudo prático de **Polimorfismo de Subtipagem (Runtime/Dynamic Dispatch)**, **
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd Polimorfismo/Polimorfismo1/src

@@ -4,7 +4,7 @@ Módulo dedicado ao gerenciamento seguro de recursos com **`try-with-resources`*
 
 ---
 
-## 📋 Exercícios Implementados (`Easy/src/`)
+## Exercícios Implementados (`Easy/src/`)
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Módulo dedicado ao gerenciamento seguro de recursos com **`try-with-resources`*
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd TryCatch/Easy/src

@@ -4,7 +4,7 @@ Estudo comparativo entre **Classes Tradicionais Encapsuladas** e **Java Records 
 
 ---
 
-## 📋 Exercícios Implementados
+## Exercícios Implementados
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Estudo comparativo entre **Classes Tradicionais Encapsuladas** e **Java Records 
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd encapsulamento/Encapsulamento_Records_vs_Classes/src

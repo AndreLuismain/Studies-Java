@@ -4,7 +4,7 @@ Módulo prático que demonstra os limites da **Herança de Classes (`extends`)**
 
 ---
 
-## 📋 Exercícios Implementados
+## Exercícios Implementados
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Módulo prático que demonstra os limites da **Herança de Classes (`extends`)**
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd "Herança_vs_Composição/Easy/src"

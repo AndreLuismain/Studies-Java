@@ -4,7 +4,7 @@ Diretório dedicado aos recursos funcionais do Java (`java.util.stream`, `java.u
 
 ---
 
-## 🧭 Índice de Subpastas e Exercícios
+## Índice de Subpastas e Exercícios
 
 ### 1. [`filter_map_collect/`](./filter_map_collect/) — Pipelines de Transformação e Agregação
 | Arquivo | Nível | Objetivo e Lógica Implementada |
@@ -29,7 +29,7 @@ Diretório dedicado aos recursos funcionais do Java (`java.util.stream`, `java.u
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 # Exemplo: Executar o pipeline NLP (Hard.java) em filter_map_collect

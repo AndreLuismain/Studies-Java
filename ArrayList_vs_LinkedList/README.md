@@ -4,7 +4,7 @@ Análise experimental de complexidade assintótica entre vetores dinâmicos (`Ar
 
 ---
 
-## 📋 Exercícios Implementados (`src/`)
+## Exercícios Implementados (`src/`)
 
 | Arquivo | Nível | Objetivo e Lógica Implementada | Conceitos Aplicados |
 |---|:---:|---|---|
@@ -14,7 +14,7 @@ Análise experimental de complexidade assintótica entre vetores dinâmicos (`Ar
 
 ---
 
-## 🚀 Como Compilar e Executar
+## Como Compilar e Executar
 
 ```powershell
 cd ArrayList_vs_LinkedList/src
